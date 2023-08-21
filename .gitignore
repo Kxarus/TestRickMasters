@@ -1,9 +1,9 @@
 # Cocoapods
-*.wcworkspace
+# *.wcworkspace
 # R.swift
 *.generated.swift
-Pods
-Podfile.lock
+# Pods
+# Podfile.lock
 # Other
 *.xccheckout
 *.moved-aside
