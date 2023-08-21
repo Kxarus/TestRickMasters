@@ -347,8 +347,8 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 307C5B462A81245D00D14D77 /* Build configuration list for PBXNativeTarget "TestRickMasters" */;
 			buildPhases = (
-				307C5B492A81279400D14D77 /* R swift */,
 				2FB7E3BCE2CA91F35CCDD66B /* [CP] Check Pods Manifest.lock */,
+				307C5B492A81279400D14D77 /* R swift */,
 				307C5B2E2A81245C00D14D77 /* Sources */,
 				307C5B2F2A81245C00D14D77 /* Frameworks */,
 				307C5B302A81245C00D14D77 /* Resources */,
@@ -658,7 +658,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = K595A447RT;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TestRickMasters/Info.plist;
+				INFOPLIST_FILE = TestRickMasters/Application/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -690,7 +690,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = K595A447RT;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TestRickMasters/Info.plist;
+				INFOPLIST_FILE = TestRickMasters/Application/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
