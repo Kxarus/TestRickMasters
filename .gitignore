@@ -1,0 +1,18 @@
+# Cocoapods
+*.wcworkspace
+# R.swift
+*.generated.swift
+Pods
+Podfile.lock
+# Other
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+*.xcscheme
+# mac
+.DS_Store
+
+xcuserdata/
+xcshareddata/
+*.xcworkspacedata
